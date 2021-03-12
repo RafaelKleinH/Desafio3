@@ -1,6 +1,7 @@
 {
   "images" : [
     {
+      "filename" : "launchScreen.jpeg",
       "idiom" : "universal",
       "scale" : "1x"
     },
